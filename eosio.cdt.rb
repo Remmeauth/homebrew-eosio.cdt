@@ -3,7 +3,7 @@ class EosioCdt < Formula
    homepage "https://github.com/eosio/eosio.cdt"
    revision 0
    url "https://github.com/EOSIO/eosio.cdt/releases/download/v1.7.0-rc1/eosio.cdt-1.7.0-rc1.mojave.bottle.tar.gz"
-   version "1.6.3"
+   version "1.7.0-rc1"
    
    option :universal
 
